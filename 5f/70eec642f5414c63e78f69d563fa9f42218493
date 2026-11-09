@@ -1,0 +1,21 @@
+package-lock.json
+  s_4fd9eb471223c9::t_95c944bfc2b6b9 1-1682
+package.json
+  s_4fd9eb471223c9::t_50c71931ad5dd4 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "5f70eec642f5414c63e78f69d563fa9f42218493",
+  "prompts": {},
+  "sessions": {
+    "s_4fd9eb471223c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e3ceabae-1490-4e25-889d-8740c620fd2d",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Artsiom Sarokin <artsiom.sarokin@ventionteams.com>"
+    }
+  }
+}
