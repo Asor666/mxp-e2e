@@ -1,0 +1,21 @@
+src/pages/CompanyInfoPage.ts
+  s_8cb1d9e2d10d30::t_0d62d0e98af4bb 30
+src/pages/VerifyEmailPage.ts
+  s_8cb1d9e2d10d30::t_0512808b5fab3e 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "04db0b0b04b0370b0635c9ea082471d751eeccab",
+  "prompts": {},
+  "sessions": {
+    "s_8cb1d9e2d10d30": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "463750bc-e16c-49cf-88be-83e12d2f316e",
+        "model": "unknown"
+      },
+      "human_author": "Artsiom Sarokin <artsiom.sarokin@ventionteams.com>"
+    }
+  }
+}
