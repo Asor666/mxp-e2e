@@ -1,0 +1,21 @@
+src/pages/components/Select.ts
+  s_8cb1d9e2d10d30::t_9b7ba1959b7e5e 18
+src/utils/otp.ts
+  s_8cb1d9e2d10d30::t_b07600b8971894 3,6,8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "2bcd0e2129c3ef70127ec10d352094935caa9209",
+  "prompts": {},
+  "sessions": {
+    "s_8cb1d9e2d10d30": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "463750bc-e16c-49cf-88be-83e12d2f316e",
+        "model": "unknown"
+      },
+      "human_author": "Artsiom Sarokin <artsiom.sarokin@ventionteams.com>"
+    }
+  }
+}
