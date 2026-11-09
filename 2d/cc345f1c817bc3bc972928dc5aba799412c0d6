@@ -1,0 +1,19 @@
+tests/request-demo.positive.spec.ts
+  s_8c348d2792c217::t_e950675680173a 6,9,12,14-20,26,30-34,37-38,42-44,50-56,60-61,66-68,73-74,79-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "2dcc345f1c817bc3bc972928dc5aba799412c0d6",
+  "prompts": {},
+  "sessions": {
+    "s_8c348d2792c217": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d0e2af3e-510f-42f4-aada-dace6fd55ec6",
+        "model": "unknown"
+      },
+      "human_author": "Artsiom Sarokin <artsiom.sarokin@ventionteams.com>"
+    }
+  }
+}
