@@ -1,0 +1,19 @@
+src/api/mail.types.ts
+  s_8cb1d9e2d10d30::t_db12251809799a 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "1cea0c0b2797d6ea489499df1b8a39174fb9fbf0",
+  "prompts": {},
+  "sessions": {
+    "s_8cb1d9e2d10d30": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "463750bc-e16c-49cf-88be-83e12d2f316e",
+        "model": "unknown"
+      },
+      "human_author": "Artsiom Sarokin <artsiom.sarokin@ventionteams.com>"
+    }
+  }
+}
