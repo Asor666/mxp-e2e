@@ -1,0 +1,31 @@
+package-lock.json
+  s_4fd9eb471223c9::t_c867343b17f2c0 11
+package.json
+  s_4fd9eb471223c9::t_0aaecc16ecbe00 25
+playwright.config.ts
+  s_4fd9eb471223c9::t_c4ddc12a03718e 20
+src/api/MailClient.ts
+  s_4fd9eb471223c9::t_f64eb0edf16dcf 11-13,60-61
+src/pages/VerifyEmailPage.ts
+  s_4fd9eb471223c9::t_679d80a665b01d 7-10,15-19,25,33-37
+src/utils/otp.ts
+  s_4fd9eb471223c9::t_ee1053eee5971b 3,6-8
+tests/request-demo.positive.spec.ts
+  s_4fd9eb471223c9::t_b3d810d6cd826e 76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "a3f70e23fede649fa7ae358db7b98738f52d6514",
+  "prompts": {},
+  "sessions": {
+    "s_4fd9eb471223c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e3ceabae-1490-4e25-889d-8740c620fd2d",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Artsiom Sarokin <artsiom.sarokin@ventionteams.com>"
+    }
+  }
+}
