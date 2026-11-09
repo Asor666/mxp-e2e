@@ -1,0 +1,19 @@
+README.md
+  s_8cb1d9e2d10d30::t_d91d97d9cae1c7 3,16,19,23-24,31-32,35-36,38,40,42-45,47,49-50,52,57,59,61,63,66-78,85,88-91,93,101-103,107,109-111,113,115
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "b776ca55fab04830237bf80ddfb306b7c9bef845",
+  "prompts": {},
+  "sessions": {
+    "s_8cb1d9e2d10d30": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "463750bc-e16c-49cf-88be-83e12d2f316e",
+        "model": "unknown"
+      },
+      "human_author": "Artsiom Sarokin <artsiom.sarokin@ventionteams.com>"
+    }
+  }
+}
