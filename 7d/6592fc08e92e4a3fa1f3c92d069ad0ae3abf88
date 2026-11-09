@@ -1,0 +1,57 @@
+package-lock.json
+  s_4fd9eb471223c9::t_d107ec99f3f9af 1-1682
+package.json
+  s_4fd9eb471223c9::t_e2d4647b63b0da 1-27
+.gitignore
+  s_4fd9eb471223c9::t_78cd2e26f48397 1-7
+README.md
+  s_4fd9eb471223c9::t_3cb312bb18eecf 1-116
+eslint.config.mjs
+  s_4fd9eb471223c9::t_194d0c33d33a62 1-14
+playwright.config.ts
+  s_4fd9eb471223c9::t_b4c337f1cb3e67 1-40
+src/api/MailClient.ts
+  s_4fd9eb471223c9::t_77d998c66ac316 1-151
+src/api/mail.types.ts
+  s_4fd9eb471223c9::t_9521486a7ebbe1 1-29
+src/data/testData.ts
+  s_4fd9eb471223c9::t_2433d844e668a8 1-57
+src/fixtures/app.fixture.ts
+  s_4fd9eb471223c9::t_351fcae2919f02 1-21
+src/pages/CompanyInfoPage.ts
+  s_4fd9eb471223c9::t_09f0be4f420d9b 1-42
+src/pages/ContactDetailsPage.ts
+  s_4fd9eb471223c9::t_3d6086061ed37b 1-50
+src/pages/ThankYouPage.ts
+  s_4fd9eb471223c9::t_4824badaa87fc7 1-30
+src/pages/VerifyEmailPage.ts
+  s_4fd9eb471223c9::t_d0a21e493b6745 1-25
+src/pages/components/Select.ts
+  s_4fd9eb471223c9::t_ed6751e61b65d2 1-30
+src/utils/otp.ts
+  s_4fd9eb471223c9::t_1679b3f8d47ea1 1-8
+src/utils/timeouts.ts
+  s_4fd9eb471223c9::t_ffefdfb5d179e1 1-6
+src/utils/wait.ts
+  s_4fd9eb471223c9::t_35f8441ee0b9b5 1-26
+tests/request-demo.positive.spec.ts
+  s_4fd9eb471223c9::t_173cbfd3f57ef9 1-89
+tsconfig.json
+  s_4fd9eb471223c9::t_774d0ffbe4f3d4 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "7d6592fc08e92e4a3fa1f3c92d069ad0ae3abf88",
+  "prompts": {},
+  "sessions": {
+    "s_4fd9eb471223c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e3ceabae-1490-4e25-889d-8740c620fd2d",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Artsiom Sarokin <artsiom.sarokin@ventionteams.com>"
+    }
+  }
+}
