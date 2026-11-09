@@ -1,0 +1,23 @@
+src/api/MailClient.ts
+  s_8cb1d9e2d10d30::t_c2f0a85adeccc8 44
+src/pages/ContactDetailsPage.ts
+  s_8cb1d9e2d10d30::t_b0a37deaccda20 4,12
+src/pages/components/Select.ts
+  s_8cb1d9e2d10d30::t_d14563f4b9800e 10,24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "edb18485fb0e403a545cd0f809d8e6c6670416b8",
+  "prompts": {},
+  "sessions": {
+    "s_8cb1d9e2d10d30": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "463750bc-e16c-49cf-88be-83e12d2f316e",
+        "model": "unknown"
+      },
+      "human_author": "Artsiom Sarokin <artsiom.sarokin@ventionteams.com>"
+    }
+  }
+}
