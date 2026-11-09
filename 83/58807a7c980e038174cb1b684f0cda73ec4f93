@@ -1,0 +1,67 @@
+package-lock.json
+  s_4fd9eb471223c9::t_d67d094bd993cf 1-1695
+.env.example
+  s_4fd9eb471223c9::t_a2b5c687c3e41b 1-14
+.gitignore
+  s_4fd9eb471223c9::t_4a360358d0a816 1-7
+README.md
+  s_4fd9eb471223c9::t_3aefe5c24b94dc 1-170
+eslint.config.js
+  s_4fd9eb471223c9::t_49740a2982c26e 1-14
+package.json
+  s_4fd9eb471223c9::t_ae4214e5009660 1-28
+playwright.config.ts
+  s_4fd9eb471223c9::t_8df2647c1a8158 1-41
+src/api/MailClient.ts
+  s_4fd9eb471223c9::t_f21ecfe096dccd 1-167
+src/api/mail.types.ts
+  s_4fd9eb471223c9::t_c0ed976ba754cd 1-39
+src/config.ts
+  s_4fd9eb471223c9::t_0783a9220bc87c 1-19
+src/data/testData.ts
+  s_4fd9eb471223c9::t_4a7badb7041c3e 1-63
+src/fixtures/app.fixture.ts
+  s_4fd9eb471223c9::t_40347116c87e26 1-40
+src/flows/DemoRequestFlow.ts
+  s_4fd9eb471223c9::t_c678de9c86306d 1-125
+src/pages/BasePage.ts
+  s_4fd9eb471223c9::t_876ce6940692a0 1-30
+src/pages/CompanyInfoPage.ts
+  s_4fd9eb471223c9::t_69d743d134f9d6 1-51
+src/pages/ContactDetailsPage.ts
+  s_4fd9eb471223c9::t_7168c864836f51 1-96
+src/pages/ThankYouPage.ts
+  s_4fd9eb471223c9::t_a96185ecae6bc3 1-36
+src/pages/VerifyEmailPage.ts
+  s_4fd9eb471223c9::t_977f6365b0a333 1-38
+src/pages/components/OtpInput.ts
+  s_4fd9eb471223c9::t_d6c0657a12cd11 1-42
+src/pages/components/Select.ts
+  s_4fd9eb471223c9::t_813091c73426ff 1-46
+src/utils/logger.ts
+  s_4fd9eb471223c9::t_38c202a7d6dfb3 1-18
+src/utils/otp.ts
+  s_4fd9eb471223c9::t_15dd1547ee10a2 1-20
+src/utils/wait.ts
+  s_4fd9eb471223c9::t_cf4bc3dd27ffe5 1-26
+tests/request-demo.positive.spec.ts
+  s_4fd9eb471223c9::t_61020bb0bce6fb 1-70
+tsconfig.json
+  s_4fd9eb471223c9::t_596e1fdd8df307 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "8358807a7c980e038174cb1b684f0cda73ec4f93",
+  "prompts": {},
+  "sessions": {
+    "s_4fd9eb471223c9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e3ceabae-1490-4e25-889d-8740c620fd2d",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Artsiom Sarokin <artsiom.sarokin@ventionteams.com>"
+    }
+  }
+}
